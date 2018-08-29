@@ -1,0 +1,19 @@
+{
+  "name": "git_play",
+  "version": "0.0.0",
+  "description": "web application using git-style handling for sharing cross-platform music playlists.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gerar231/git_play.git"
+  },
+  "author": "Gerard Gaimari",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gerar231/git_play/issues"
+  },
+  "homepage": "https://github.com/gerar231/git_play#readme"
+}
